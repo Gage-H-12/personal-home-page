@@ -4,6 +4,7 @@
 /coverage
 /logs
 /temp
+/.next
 
 Thumbs.db
 ehthumbs.db
